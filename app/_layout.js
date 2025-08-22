@@ -172,6 +172,7 @@ export default function RootLayout() {
       <Stack.Screen name="Login" options={{ headerShown: false }} />
       <Stack.Screen 
         name="SignUp" 
+        
         options={{ 
           headerShown: true,
           headerStyle: { backgroundColor: 'blue' },
